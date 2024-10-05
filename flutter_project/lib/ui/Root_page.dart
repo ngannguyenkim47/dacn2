@@ -1,5 +1,5 @@
 
-import 'package:flutter_project/constants.dart';
+import 'package:flutter_project/utils/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_project/ui/screens/chart.dart';
 import 'package:flutter_project/ui/screens/home.dart';

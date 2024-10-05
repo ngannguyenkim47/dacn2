@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/constants.dart';
+import 'package:flutter_project/utils/constants.dart';
 import 'package:flutter_project/ui/Root_page.dart';
 import 'package:flutter_project/ui/screens/forgot_password.dart';
 import 'package:flutter_project/ui/screens/signup.dart';
-import 'package:flutter_project/ui/screens/widgets/custom_textfield.dart';
+import 'package:flutter_project/widgets/custom_textfield.dart';
 import 'package:page_transition/page_transition.dart';
 
 
