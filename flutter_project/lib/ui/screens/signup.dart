@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/constants.dart';
-import 'package:flutter_project/ui/root_page.dart';
+import 'package:flutter_project/utils/constants.dart';
 import 'package:flutter_project/ui/screens/login.dart';
-import 'package:flutter_project/ui/screens/widgets/custom_textfield.dart';
+import 'package:flutter_project/widgets/custom_textfield.dart';
 import 'package:page_transition/page_transition.dart';
 
 class SignUp extends StatelessWidget {

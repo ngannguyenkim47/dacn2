@@ -2,7 +2,7 @@ import 'package:flutter_project/ui/screens//login.dart';
 import 'package:flutter/material.dart';
 
 
-import '../constants.dart';
+import '../utils/constants.dart';
 import 'Root_page.dart';
 // import 'screens/signin_page.dart';
 

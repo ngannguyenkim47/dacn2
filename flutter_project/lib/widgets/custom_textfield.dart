@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/constants.dart';
+import 'package:flutter_project/utils/constants.dart';
 class CustomTextfield extends StatelessWidget {
   final IconData icon;
   final bool obscureText;
